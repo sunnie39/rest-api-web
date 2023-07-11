@@ -23,4 +23,5 @@ vscode
 https://choco-life.tistory.com/42
 
 #### 예시 웹 뷰 </br>
+![test](https://github.com/sunnie39/rest-api-web/assets/51373309/bf05a3ee-7f92-4948-a192-0853283c97c0)
 
