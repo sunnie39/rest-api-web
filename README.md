@@ -18,3 +18,5 @@ https://choco-life.tistory.com/42
 #### 예시 웹 뷰 </br>
 ![test](https://github.com/sunnie39/rest-api-web/assets/51373309/bf05a3ee-7f92-4948-a192-0853283c97c0)
 
+![2](https://github.com/sunnie39/rest-api-web/assets/51373309/0ee39f60-e3ce-40c2-9d6a-c67989e11784)
+
